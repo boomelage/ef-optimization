@@ -1,4 +1,4 @@
-The workings for an Asset Pricing exercise from MSc Quantitative Finance at Bayes Business School 2023/24
+The workings for an Asset Pricing exercise from MSc Quantitative Finance 2023/24 at Bayes Business School
 
 The archiving of PyPortfolioOpt was needed due to an error in the plotting style found in plotting.py of the library.
 Kindly find the Pypfopt library it in the repository as a zip file. This is required for the code to run.
