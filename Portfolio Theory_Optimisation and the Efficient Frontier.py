@@ -12,8 +12,6 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 warnings.simplefilter(action='ignore', category=UserWarning)
 
-# # Preparing Data
-
 # In[3]:
 
 df = pd.read_excel(r'cw2023AP.xlsx',index_col = 0)
