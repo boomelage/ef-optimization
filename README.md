@@ -1,1 +1,1 @@
-porfolio optimisation using pypfopt
+porfolio optimization using pypfopt
